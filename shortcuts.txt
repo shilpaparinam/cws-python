@@ -1,0 +1,6 @@
+sft+alt+down arrow --> copy paste
+CTRL+/-->comment all lines
+CTRL + Backspace--> 
+CTRL + UP/DOWN arrow--> cursor up and down
+
+tab for multiple lines, -->select all lines and single tab
