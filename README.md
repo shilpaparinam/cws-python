@@ -1,8 +1,8 @@
 # cws-python
 
 # Python Learning Repository
+![Image20230801215405](https://github.com/shilpaparinam/cws-python/assets/140906338/8edbdd69-5038-47af-980c-da38a3b58a2e)
 
-![Image20230801215405](https://github.com/shilpaparinam/cws-python/assets/140906338/36216d10-f07a-442f-82e3-ef06da949ed7)
 
 
 
